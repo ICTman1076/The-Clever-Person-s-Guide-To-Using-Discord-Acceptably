@@ -84,5 +84,5 @@ virus, but use your discretion.
 1 INVITE PER MESSAGE PER SERVER
 - Unless the partnering channel is marked as NSFW or the server itself is nsfw **do not advertise anything NSFW.**
 When you are, it is good practice to add [NSFW] after the link in order to warn the user.
-- Ensure you **do not use more than 660 characters and 5 lines**
+- Ensure you **do not use more than 660 characters and 10 lines**
 - The advert MUST follow the rules of BOTH the advertiser's and advertised server.
