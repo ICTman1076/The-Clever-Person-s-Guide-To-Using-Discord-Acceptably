@@ -55,6 +55,8 @@ When you are, it is good practice to add [NSFW] after the link in order to warn 
 When partnering 2 Discord servers:
 
 - The servers must both explicitly agree to the partnership and its terms before any advertising is done.
+- The server with the lower member count must *always* post the advert first, unless otherwise specified by the owner of the
+larger server.
 - The advertisement should be placed in one of 2 places, depending on certain terms (higher up terms override
 lower down terms):
   - In the case of a channel dedicated to partnered servers already existing, in said partners channel
